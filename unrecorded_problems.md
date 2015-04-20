@@ -2,7 +2,6 @@
 
 ##Before 2015-04-14
 
-* 7: Reverse Integer
 * 12: Integer to Roman
 * 13: Roman to Integer
 * 21: Merge Two Sorted Lists
