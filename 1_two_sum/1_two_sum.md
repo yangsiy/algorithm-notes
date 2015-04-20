@@ -5,7 +5,7 @@
 * 将数列中每一个数字放入map，value为下标+1
 * 遍历数列中每一个数字k，检查target-k是否在map中
 
-##C++
+###C++
 
 ```
 class Solution {
